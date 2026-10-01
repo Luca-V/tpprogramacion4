@@ -2,6 +2,8 @@
 
 Este proyecto implementa un backend en NestJS con autenticación por Google OAuth2 y emisión de JWT para rutas protegidas.
 
+Repositorio: [Luca-V/tpprogramacion4](https://github.com/Luca-V/tpprogramacion4)
+
 ## Requisitos
 
 - Node.js 18 o superior
